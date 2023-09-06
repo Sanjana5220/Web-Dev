@@ -63,66 +63,13 @@
 .main-container {
     width: 75%;
     height: 97vh;
+
 } 
 
 .main-container-in {
-    height: fit-content; 
-    width: 100%;
-} 
-
-.main-two h1{
+    height: 100%;
     display: flex;
     justify-content: center;
-    align-items: center;
-    padding: 15px;
-
-}
-
-.main-one{
-    height: 10vh;
-    width: 100%;
-    border: 1.6px solid black; 
-    display: flex; 
     align-items: center; 
-    justify-content: flex-end;
-
-} 
-
-.main-img img{
-    height: 9vh; 
-} 
-
-.main-id{
-    margin-left: 5px; 
-    font-size: 20px;
-} 
-
-.main-three {
-    height: 30vw;
-    width: 100%;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-} 
-
-.box-cm {
-    height: 20vw;
-    width: 25%;
-    border: .1px solid black;
-    border-radius: 20px;
-
-} 
-
-.img-box{
-    height: 15vw;
-    width: 100%; 
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-.img-box img{
-    width: 90%;
-}
-.text-box{
-    text-align: center;
+    
 }
